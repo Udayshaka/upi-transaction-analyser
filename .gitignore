@@ -1,0 +1,8 @@
+data/raw/creditcard.csv
+data/raw/creditcardfraud.zip
+data/raw/my_transactions_raw.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+anaconda_projects/
