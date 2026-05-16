@@ -21,11 +21,11 @@ Python · pandas · numpy · Faker · matplotlib · seaborn · plotly · scikit-
 ## Notebooks
 | Notebook | Description |
 |---|---|
-| 01_data_generation | 10,000 synthetic UPI transactions (lognormal distribution) |
-| 02_cleaning_eda | Feature engineering — hour, day, amount buckets |
-| 03_pattern_analysis | Heatmap, weekly trend, city tier, device analysis |
-| 04_churn_rfm | RFM segmentation — Champions, Loyal, At Risk, Churned |
-| 05_fraud_flags | 3-layer fraud heuristics — Z-score, velocity, off-hours |
+| 01.data generation | 10,000 synthetic UPI transactions (lognormal distribution) |
+| 02.cleaning Eda | Feature engineering — hour, day, amount buckets |
+| 03.pattern analysis | Heatmap, weekly trend, city tier, device analysis |
+| 04.churn rfm | RFM segmentation — Champions, Loyal, At Risk, Churned |
+| 05.fraud flags | 3-layer fraud heuristics — Z-score, velocity, off-hours |
 
 ## How to run
 ```bash
